@@ -197,6 +197,7 @@ Awesome software projects sub-categorized by focus.
 - [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
 - [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
+- [U.S. Geological Survey National Produced Waters Geochemical Database](https://www.sciencebase.gov/catalog/item/59d25d63e4b05fe04cc235f9) - The composition of water produced along with oil and gas
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
